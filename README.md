@@ -1,11 +1,11 @@
-# Inteligencia-Generativa
+# Video Desvendando a Inteligência Artificial: Um Overview para Alunos do Ensino Médio.
 Aqui, você encontrará uma variedade de projetos e experimentos que demonstram o poder da IAG em criar itens únicos e inovadores. 
 
 ## 📒 Descrição
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[Copilot](https://copilot.microsoft.com/)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 - Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
