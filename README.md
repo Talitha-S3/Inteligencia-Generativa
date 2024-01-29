@@ -1,8 +1,8 @@
-# Video Desvendando a Inteligência Artificial: Um Overview para Alunos do Ensino Médio.
+# Video Desvendando a IA: A Importância da Inteligência Artificial no Ensino Médio.
 Aqui, você encontrará uma variedade de projetos e experimentos que demonstram o poder da IAG em criar itens únicos e inovadores. 
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de destaca a importância e o impacto da Inteligência Artificial no currículo do ensino médio, criado com a ajuda da IA.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Copilot](https://copilot.microsoft.com/)** para roteirização e revisão;
@@ -17,7 +17,7 @@ sitetização da voz e inclusão das legendas visualizadas ao longo do vídeo, t
 O vídeo é mostra ao expectador a evolução da Inteligência artificial e o quanto estamos inseridos neste contexto, enaltecendo
 a importância do ensino de Ia na matriz curricular do Ensino Médio.
 
-[LINK PARA O VÍDEO AQUI](https://youtu.be/94G8pikePII)
+[LINK PARA O VÍDEO AQUI](https://youtu.be/Og8Hy2xaFBE)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
