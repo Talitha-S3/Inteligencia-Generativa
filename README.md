@@ -20,4 +20,5 @@ a importância do ensino de Ia na matriz curricular do Ensino Médio.
 [LINK PARA O VÍDEO AQUI](https://youtu.be/Og8Hy2xaFBE)
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Criar este vídeo com a ajuda da tecnologia de Inteligência Artificial foi uma experiência incrível. Foi fascinante ver como a IA 
+pode ser usada para melhorar a educação e estamos ansiosos para explorar ainda mais as possibilidades desta tecnologia no futuro.
