@@ -14,7 +14,7 @@ Já o mini-curso traz um overview sobre o tema IA e no fim disponibiliza um quiz
 ## 🧐 Processo de Criação
 -Para a estruturação e revisão do roteiro do video utilizei a ferramenta "Copilot". O "Vidnoz Ai" foi utilizado para a geração do avatar,
 sitetização da voz e inclusão das legendas visualizadas ao longo do vídeo, trazendo uma dimensão futurística ao vídeo.
--Para a criação o mini-curso utilizei o "Copilot" para geração do promp para o curso, após isso inseri as informações diretamente na 
+Para a criação o mini-curso utilizei o "Copilot" para geração do promp para o curso, após isso inseri as informações diretamente na 
 página inicial do "Learnig Studio AI" que gerou o curso.
 
 ## 🚀 Resultados
